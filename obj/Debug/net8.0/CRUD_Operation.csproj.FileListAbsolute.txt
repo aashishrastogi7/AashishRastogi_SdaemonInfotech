@@ -261,3 +261,4 @@ D:\Rider2025\Interview\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.
 D:\Rider2025\Interview\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Rider2025\Interview\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Rider2025\Interview\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Rider2025\Interview\obj\Debug\net8.0\CRUD_Operation.sourcelink.json
